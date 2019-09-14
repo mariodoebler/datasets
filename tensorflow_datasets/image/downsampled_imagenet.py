@@ -43,6 +43,8 @@ _CITATION = """\
 _DESCRIPTION = """\
 Dataset with images of 2 resolutions (see config name for information on the resolution).
 It is used for density estimation and generative modeling experiments.
+
+For resized imagenet for supervised learning see `imagenet_resized`.
 """
 
 _DL_URL = "http://image-net.org/small/"
